@@ -1,0 +1,77 @@
+body { 
+    margin: 0px;
+    background-color: white;
+}
+
+ 
+.classe-base {
+  
+    height: 150px;
+    width: 150px;
+
+}
+
+.class-base {
+    
+    background-color:#21022d;
+    color:white;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    text-align: center;
+
+} 
+
+
+ 
+.centralizar{
+    
+    text-align: center;
+}
+
+#corpo-da-página{
+    
+    margin: 24PX;
+    background-color:#e2d8e7; 
+
+
+}
+
+.conteiner-vitamina{
+
+   margin-left: 0px;
+   margin-top: 64px;
+   margin-bottom: 32px;
+
+} 
+
+
+#vitamina-zero-lactose{
+
+    margin-left: 32px;
+    margin-top: 64px;
+    margin-bottom: 32px;
+  text-align: center;
+
+}
+
+#vitamina-sem-lactose{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#cardápio{
+  
+    padding: 16px;
+    margin-left: 16px;
+    
+}
+
+#vitaminas{
+
+    padding-left: 64px;
+
+
+}
